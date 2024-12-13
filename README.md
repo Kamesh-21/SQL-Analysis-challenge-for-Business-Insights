@@ -1,9 +1,9 @@
 # SQL Analysis Challenge for Business Insights
-# Project Overview
+## Project Overview
 This project involved solving a SQL-based challenge designed by a data analytics manager to evaluate the technical problem-solving skills of aspiring data analysts. 
 The dataset provided contained business data, and the goal was to extract meaningful insights to support informed decision-making.
 
-# Role & Responsibilities
+## Role & Responsibilities
 - Analyzed business data using SQL to identify patterns and trends.
 - Wrote and optimized complex SQL queries to solve real-world business scenarios.
 - Ensured data quality and consistency while extracting insights from raw data.
