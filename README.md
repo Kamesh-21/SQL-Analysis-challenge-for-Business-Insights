@@ -1,4 +1,4 @@
-# SQL Analysis Challenge for Business Insights
+# Atliq Hardwares SQL Challenge 
 ## Project Overview
 This project involved solving a SQL-based challenge designed by a data analytics manager to evaluate the technical problem-solving skills of aspiring data analysts. 
 The dataset provided contained business data, and the goal was to extract meaningful insights to support informed decision-making.
